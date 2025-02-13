@@ -76,15 +76,15 @@ spring.datasource.username=root
 spring.datasource.password=
 ```
 4. **Some images emphasizing the application interface:***
-![Image Alt Text](/image.jpg)
+![Image Alt Text](image.png)
 
-![Image Alt Text](/image2.jpg)
+![Image Alt Text](image2.png)
 
-![Image Alt Text](/image3.jpg)
+![Image Alt Text](image3.png)
 
-![Image Alt Text](s/image4.jpg)
+![Image Alt Text](image4.png)
 
-![Image Alt Text](/image5.jpg)
+![Image Alt Text](image5.png)
 
-![Image Alt Text](/image6.jpg)
-![Image Alt Text](/image7.jpg)
+![Image Alt Text](/image6.png)
+![Image Alt Text](/image7.png)
